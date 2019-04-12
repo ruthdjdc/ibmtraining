@@ -11,6 +11,9 @@ class App extends Component {
 <Header/>
 <Body/>
 <Footer/>
+
+console.log('whatever yo');
+
 </div>
     );
   }
