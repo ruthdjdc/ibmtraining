@@ -1,0 +1,12 @@
+.footer {
+    background-color: lightsteelblue;
+    height: 100%;
+    text-align: center;
+    font-weight: 300;
+    
+    
+  }
+
+.footer p {
+    margin: 0;
+}
